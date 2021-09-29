@@ -1,0 +1,13 @@
+﻿Schematic Name,Description,Mfg,Mfg #,cost/unit,quantity
+"VIN, LED1, LED2, LED3",Terminal block,Phoenix Contact,1989447,0.41,4
+"U1, U2, U3",PWM IC,Dialog Semiconductor,iw339-00,0.61,3
+-,Enclosure,Hammond Manufacturing,RL6105BK,3.08,1
+"SW0, SW1, SW2, SW3",Toggle Switch,E-Switch,100SP1T1B1M1QEH,2.32,4
+"Q1, Q2, Q3",Mosfet,Diodes Incorporated,DMTH6016LK3-13,0.54,3
+FUSE,Fuse Clip,Littelfuse,01110501Z ,0.14,2
+"R2, R5, R8",100k Potentiometer,TT Electronics,P160KNP-0FC18B100K ,1.03,3
+"C1, C4, C7",1uF Capacitor,,,,3
+"C2, C5, C8",0.1uF Capacitor,,,,3
+"C3, C6, C9",1nF Capacitor,,,,3
+"R1, R4, R7",1k Resistor,,,,3
+"R3, R6, R9",10k Resistor,,,,3
